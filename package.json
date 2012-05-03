@@ -1,0 +1,12 @@
+{
+  "name": "meminfo",
+  "description": "Module for reading `/proc/meminfo`",
+  "keywords": ["memory", "meminfo", "linux"],
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "version": "0.0.0",
+  "main": "./lib/meminfo.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mmalecki/meminfo.git"
+  }
+}
